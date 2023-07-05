@@ -4,6 +4,6 @@
 
 ## <img src="link-solid.svg" width="20px"> Contact
 
-### <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="20px"> smiilliindeveloper@gmail.com
+### <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="20px" style="pointer-events: none;"><span style="pointer-events: none;"> smiilliindeveloper@gmail.com</span>
 
-### <img src="https://instagram.com/favicon.ico" width="20px"> <a href="https://www.instagram.com/smiilliin/">smiilliin</a>
+### <a href="https://www.instagram.com/smiilliin/"><img src="https://instagram.com/favicon.ico" width="20px"> smiilliin</a>
