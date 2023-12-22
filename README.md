@@ -2,10 +2,10 @@
 
 Hello! I'm a common _aspiring developer!_
 
-<div style="margin-top: 30px; width: 100%; text-align: center">
-<img src="pfp-old2.svg" style="background-color: black; margin-left: 10px; mergin-right: 10px; border-radius:50%;  width: 100px; height: 100px; filter: drop-shadow(-3px 5px 4px gray);">
-<img src="pfp-old.jpeg" style="margin-left: 10px; mergin-right: 10px; border-radius:50%;  width: 100px; height: 100px; filter: drop-shadow(0px 5px 4px gray);">
-<img src="pfp.png" style="margin-left: 10px; mergin-right: 10px; border-radius:50%;  width: 100px; height: 100px;filter: drop-shadow(10px 8px 4px #48392F);">
+<div style="margin-top: 30px">
+<img src="pfp-old2.svg" style="background-color: black; margin-left: 10px; mergin-right: 10px; width: 100px; height: 100px;">
+<img src="pfp-old.jpeg" style="margin-left: 10px; mergin-right: 10px; width: 100px; height: 100px;">
+<img src="pfp.png" style="margin-left: 10px; mergin-right: 10px; width: 100px; height: 100px;filter:">
 </div>
 
 ## <img src="link-solid.svg" width="20px"> Contact
