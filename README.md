@@ -21,3 +21,7 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge">
   </a>
 </p>
+
+<p align="center">
+  <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=smiilliin&show_icons=true&theme=tokyonight&hide=contribs"/>
+</p>
