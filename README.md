@@ -14,7 +14,7 @@
   <a href="https://smiilliin.com">
     <img alt="Static Badge" src="https://img.shields.io/badge/smiilliin-ffffff?style=for-the-badge">
   </a>
-  <a href="https://instagram.com/smiilliin">
+  <a href="https://velog.io/@smiilliin">
     <img alt="Static Badge" src="https://img.shields.io/badge/velog-20C997?style=for-the-badge">
   </a>
   <a href="mailto:smiilliindeveloper@gamil.com">
