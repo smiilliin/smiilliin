@@ -1,11 +1,4 @@
 ![header](https://github.com/smiilliin/smiilliin/assets/121614843/b11b2b1c-2be3-4e10-b118-f0396c9e5e42)
-<p align="center">
-  <img src="pfp-old2.svg" style="background-color: black; width: 100px; height: 100px;">
-  <img src="pfp-old.jpeg" style="margin-left: 20px; width: 100px; height: 100px;">
-  <img src="pfp.png" style="margin-left: 20px; width: 100px; height: 100px;">
-</p>
-
-<h2 align='center'><img src="link-solid.svg" width="20px"/> Contact</h2>
 
 <p align='center'>
   <a href="https://instagram.com/smiilliin">
@@ -20,8 +13,4 @@
   <a href="mailto:smiilliindeveloper@gamil.com">
     <img alt="Static Badge" src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge">
   </a>
-</p>
-
-<p align="center">
-  <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=smiilliin&show_icons=true&theme=tokyonight&hide=contribs"/>
 </p>
