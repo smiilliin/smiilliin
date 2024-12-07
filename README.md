@@ -1,4 +1,5 @@
-![header](https://github.com/smiilliin/smiilliin/assets/121614843/b11b2b1c-2be3-4e10-b118-f0396c9e5e42)
+
+![smiilliin](https://github.com/user-attachments/assets/8db1b84d-acac-4ac9-acc4-f7f4480cd8b4)
 
 <p align='center'>
   <a href="https://instagram.com/smiilliin">
